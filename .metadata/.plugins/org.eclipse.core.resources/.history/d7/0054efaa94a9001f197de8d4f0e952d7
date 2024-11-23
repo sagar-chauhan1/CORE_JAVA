@@ -1,0 +1,6 @@
+package interface_;
+
+public interface FirstInterface {
+	
+	public void display();
+}

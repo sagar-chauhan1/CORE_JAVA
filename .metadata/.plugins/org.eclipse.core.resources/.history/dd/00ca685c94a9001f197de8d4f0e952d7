@@ -1,0 +1,10 @@
+package interface_;
+
+public class DemoMain {
+	
+	public static void main(String args[]) {
+		
+		DemoClass d1 = new DemoClass();
+	}
+
+}

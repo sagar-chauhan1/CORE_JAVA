@@ -1,0 +1,12 @@
+package interface_;
+
+public class DemoClass implements FirstInterface, SecondInterface {
+
+	public void display() {
+		
+	}
+	
+	public void print() {
+		
+	}
+}
