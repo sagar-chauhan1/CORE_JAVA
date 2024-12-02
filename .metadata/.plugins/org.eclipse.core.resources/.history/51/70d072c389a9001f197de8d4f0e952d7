@@ -1,8 +1,0 @@
-package interface_;
-
-public class Pig implements Animal {
-
-	public void animalSound() {
-		System.out.println("");
-	}
-}
